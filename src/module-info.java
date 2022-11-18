@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Tulio
+ *
+ */
+module course {
+}
